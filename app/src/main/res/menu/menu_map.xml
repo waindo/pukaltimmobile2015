@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/mn_pengukuran"
+        android:orderInCategory="100"
+        android:title="@string/mn_pengukuran"
+        android:icon="@drawable/ic_pengukuran"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/mn_pencarian"
+        android:orderInCategory="110"
+        android:title="@string/mn_pencarian"
+        android:icon="@drawable/ic_action_search"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/mn_ambil_data"
+        android:orderInCategory="120"
+        android:title="@string/mn_ambil_data"
+        android:icon="@drawable/ic_action_search"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/mn_inspeksi"
+        android:orderInCategory="130"
+        android:title="@string/mn_inspeksi"
+        android:icon="@drawable/ic_action_search"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/mn_logout"
+        android:orderInCategory="140"
+        android:title="@string/mn_logout"
+        android:icon="@drawable/ic_action_search"
+        app:showAsAction="never" />
+
+</menu>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/kaltim_bg_3" />
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/txtUName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/uname" />
+
+        <EditText
+            android:id="@+id/txtPasswd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/passwd" />
+
+        <CheckBox
+            android:id="@+id/chkOnline"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/online" />
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/login" />
+
+        <TextView
+            android:id="@+id/tvAtau"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/or_2" />
+
+        <Button
+            android:id="@+id/btnLapMas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/laporan_masyarakat" />
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android\MyGIS\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Android\MyGIS\app\build\intermediates\pre-dexed\debug\classes-a4d4f7ac9b9acbce5c2e5e7e6ba14b149ffcde4a.jar" />
+    </item>
+    <item
+        jar="C:\Android\MyGIS\app\libs\jcifs-1.3.17.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="60e3805e7bcfe96bf1f1907b821d251cc9d789ec">
+        <dex dex="C:\Android\MyGIS\app\build\intermediates\pre-dexed\debug\jcifs-1.3.17-515c43ac796886af5ac743a4e2b0d4c9e19fd9c9.jar" />
+    </item>
+    <item
+        jar="C:\Android\MyGIS\app\libs\arcgis-android-app-toolkit.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9d15e69a84e5a25ad94baa991cb751049c97d513">
+        <dex dex="C:\Android\MyGIS\app\build\intermediates\pre-dexed\debug\arcgis-android-app-toolkit-1c3515cb011b6a21e98b7cf2c632b60b82dfb959.jar" />
+    </item>
+    <item
+        jar="C:\Android\MyGIS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Android\MyGIS\app\build\intermediates\pre-dexed\debug\classes-b3600a7e8610206956a597a6a086a854f2b06ea7.jar" />
+    </item>
+    <item
+        jar="C:\Android\MyGIS\app\libs\jackson-mapper-1.9.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ffbb48e87fa5e9107c17aaa0616f724d785a4d71">
+        <dex dex="C:\Android\MyGIS\app\build\intermediates\pre-dexed\debug\jackson-mapper-1.9.5-9b4bed4039411c09dd64b25abef811dbd4cb525a.jar" />
+    </item>
+    <item
+        jar="C:\Android\MyGIS\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Android\MyGIS\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-54ee7831eb73a9638d4695ded63cd1b68bccaea3.jar" />
+    </item>
+    <item
+        jar="C:\Android\MyGIS\app\libs\arcgis-android-api.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe6a24fe296bc6d8f3954dcf44f392e17c8a66b0">
+        <dex dex="C:\Android\MyGIS\app\build\intermediates\pre-dexed\debug\arcgis-android-api-ae12daf66dc1abe899acb17fd508e6e5865d951d.jar" />
+    </item>
+    <item
+        jar="C:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Android\MyGIS\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-48d42d67d00135a75e70306d34b11dd7ec30ce10.jar" />
+    </item>
+    <item
+        jar="C:\Android\MyGIS\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Android\MyGIS\app\build\intermediates\pre-dexed\debug\classes-7e1d37ab1ec807a9c09c400427edf1f305d47f42.jar" />
+    </item>
+    <item
+        jar="C:\Android\MyGIS\app\libs\jackson-core-1.9.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="75ac72d19377a95225217cb4fdfa1290f3c81145">
+        <dex dex="C:\Android\MyGIS\app\build\intermediates\pre-dexed\debug\jackson-core-1.9.5-54dc967f5a0a7ceff00de3c20db23e8ae08756b9.jar" />
+    </item>
+    <item
+        jar="C:\Android\MyGIS\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Android\MyGIS\app\build\intermediates\pre-dexed\debug\classes-228a577dcc93f978beee8ae6c1ddbab35d59481c.jar" />
+    </item>
+
+</items>

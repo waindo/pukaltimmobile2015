@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffc107</color>
+    <color name="colorPrimaryDark">#ffa000</color>
+    <color name="textColorPrimary">#345995</color>
+    <color name="textColorSecondary">#90caf9</color>
+    <color name="windowBackground">#90caf9</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#345995</color>
+    <color name="hitam">#000000</color>
+    <color name="putih">#ffffff</color>
+    <color name="grey">#eaeaea</color>
+</resources>
